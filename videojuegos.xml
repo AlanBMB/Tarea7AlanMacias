@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIDEOJUEGOS>
+    <VIDEOJUEGO category="Shooter">
+        <TITLE lang="ES">Call Of Duty BOII</TITLE>
+        <DATE>
+            <DAY>12</DAY>
+            <MONTH>Noviembre</MONTH>
+            <YEAR>2012</YEAR>
+        </DATE>
+        <AGE>13</AGE>
+        <DISTRIBUTOR>Activision, Squiare Enix</DISTRIBUTOR>
+        <DEVELOPER>Treyarch</DEVELOPER>
+        <PRICE>599.99</PRICE>
+    </VIDEOJUEGO>
+    <VIDEOJUEGO category="Sandbox">
+    <TITLE lang="ES">Minecraft</TITLE>
+        <DATE>
+            <DAY>18</DAY>
+            <MONTH>Noviembre</MONTH>
+            <YEAR>2011</YEAR>
+        </DATE>
+        <AGE>13</AGE>
+        <DISTRIBUTOR>Microsoft</DISTRIBUTOR>
+        <DEVELOPER>Mojang</DEVELOPER>
+        <PRICE>556.00</PRICE>
+    </VIDEOJUEGO>
+    <VIDEOJUEGO category="Horror">
+    <TITLE lang="ES">Outlast</TITLE>
+        <DATE>
+            <DAY>4</DAY>
+            <MONTH>Septiembre</MONTH>
+            <YEAR>2016</YEAR>
+        </DATE>
+        <AGE>13</AGE>
+        <DISTRIBUTOR>Red Barrels Studios</DISTRIBUTOR>
+        <DEVELOPER>Red Barrels Studios</DEVELOPER>
+        <PRICE>149.99</PRICE>
+    </VIDEOJUEGO>
+    <VIDEOJUEGO category="Farming Simulator">
+    <TITLE lang="ES">Stardew Valley</TITLE>
+        <DATE>
+            <DAY>26</DAY>
+            <MONTH>Febrero</MONTH>
+            <YEAR>2016</YEAR>
+        </DATE>
+        <AGE>13</AGE>
+        <DISTRIBUTOR>ConcernedApe</DISTRIBUTOR>
+        <DEVELOPER>ConcernedApe</DEVELOPER>
+        <PRICE>149.99</PRICE>
+    </VIDEOJUEGO>
+    <VIDEOJUEGO category="Sandbox">
+    <TITLE lang="ES">Terraria</TITLE>
+        <DATE>
+            <DAY>13</DAY>
+            <MONTH>Valve</MONTH>
+            <YEAR>2011</YEAR>
+        </DATE>
+        <AGE>13</AGE>
+        <DISTRIBUTOR>Valve</DISTRIBUTOR>
+        <DEVELOPER>Re-Logic</DEVELOPER>
+        <PRICE>109.99</PRICE>
+    </VIDEOJUEGO>
+
+</VIDEOJUEGOS>

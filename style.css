@@ -1,0 +1,41 @@
+.body{
+    display: block;
+    justify-items: center;
+    text-align: center;
+    color: black;
+    font-size: larger;
+    background-color: rgb(173, 101, 201);
+    background-image: url(imagenes/cheems.png);
+    background-repeat:  repeat;
+    background-position: bottom right;
+}
+
+h2{
+    border: 5px solid rgb(78, 46, 108);
+    border-style: groove;
+    margin: auto;
+    background-color: rgb(70, 228, 207);
+    color: rgba(67, 41, 41, 0.922);
+}
+
+#demo,th,td{
+    border: 3px solid rgb(78, 46, 108);
+    border-style: groove;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: rgb(70, 228, 207);
+    color: rgba(67, 41, 41, 0.922);
+}
+
+th,td{
+    padding: 5px;
+}
+
+button{
+    display: block;
+    justify-items: center;
+    margin: auto;
+    background-color: rgb(70, 228, 207);
+    color: black;
+    font-size: 17px;
+}
